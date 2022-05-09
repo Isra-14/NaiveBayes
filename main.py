@@ -1,7 +1,7 @@
-from cgitb import text
-from distutils import text_file
+#   CODIGO ELABORADO POR RSDLRA (RODRIGO SEBASTIAN DE LA ROSA ANDRES) e ISH (ISRAEL SANCHEZ HINOJOSA)
+#   REFERENCIAS: PRESENTACION DE CLASE DE SISTEMAS INTELIGENTES POR EL TECNOLOGICO DE MONTERREY CVA POR MLBC
+
 from os import system
-import sys
 from tabulate import tabulate
 
 archivo = open("prueba.txt")
